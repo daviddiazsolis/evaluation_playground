@@ -131,6 +131,12 @@ export const translations: Record<Language, TMap> = {
     refLink3: 'The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets. Davis & Goadrich (2006).',
     refLink4: 'Google Developers: Classification — ML Crash Course',
 
+    // Notebooks
+    nbTitle: 'Notebooks & Colab',
+    nbSubtitle: 'Companion Jupyter notebooks for each topic. Open directly in Google Colab — no installation required.',
+    nbEvalTitle: 'Model Evaluation & Class Imbalance',
+    nbEvalDesc: 'Confusion matrix, ROC/PR curves, threshold analysis, class imbalance diagnosis, and SMOTE with sklearn and imbalanced-learn. Real datasets included.',
+
     // Footer
     footerCreatedBy: 'Created by',
     footerRole: 'Ph.D.',
@@ -255,6 +261,12 @@ export const translations: Record<Language, TMap> = {
     refLink2: 'Paper original de SMOTE — Chawla et al. (2002). SMOTE: Técnica de Sobremuestreo de Minorías Sintéticas.',
     refLink3: 'El gráfico Precisión-Recall es más informativo que el gráfico ROC para clasificadores binarios en datasets desbalanceados.',
     refLink4: 'Google Developers: Clasificación — Curso Intensivo de ML',
+
+    // Notebooks
+    nbTitle: 'Notebooks y Colab',
+    nbSubtitle: 'Notebooks de Jupyter como complemento para cada tema. Ábrelos directamente en Google Colab — sin instalación.',
+    nbEvalTitle: 'Evaluación de Modelos y Desbalanceo de Clases',
+    nbEvalDesc: 'Matriz de confusión, curvas ROC/PR, análisis de umbral, diagnóstico de desbalanceo y SMOTE con sklearn e imbalanced-learn. Incluye datasets reales.',
 
     footerCreatedBy: 'Creado por',
     footerRole: 'Ph.D.',

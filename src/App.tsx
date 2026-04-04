@@ -11,6 +11,7 @@ import ROCCurve from './components/ROCCurve'
 import PRCurve from './components/PRCurve'
 import ClassImbalance from './components/ClassImbalance'
 import SMOTEResampling from './components/SMOTEResampling'
+import NotebooksSection from './components/NotebooksSection'
 import References from './components/References'
 import Footer from './components/Footer'
 
@@ -73,6 +74,7 @@ function AppInner() {
         <PRCurve />
         <ClassImbalance />
         <SMOTEResampling />
+        <NotebooksSection />
         <References />
       </main>
       <Footer />
